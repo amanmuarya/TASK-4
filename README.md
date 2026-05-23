@@ -1,27 +1,28 @@
 # Image Display 
 
-This project is a simple HTML and CSS webpage that displays an image with a button attached below it.
+This project is a simple HTML and CSS webpage that 
+displays an image with a button attached below it.
 
 ## Features 
 - Proper HTML document structure
 - External CSS linked
 - Responsive image section
-- Button attached with image
+
 - Red theme design
-- Uses viewport units (`vw`, `vh`)
-- Flexbox layout
+- Uses viewport units (`vw`, `vh`) 
+
 - Gradient button background
 
 
 ## Technologies Used 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Project Structure 
 
 project-folder/
 │── index.html
-│── style-4.css
+│── style.css
 │── README.md
 
 ## How to Run 
